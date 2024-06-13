@@ -15,4 +15,5 @@ public class BuitineTechnika extends Produktas{
         return super.toString() + ", garantija: " + garantija + ", energijos klasė: " + energijosKlase;
     }
 
+
 }

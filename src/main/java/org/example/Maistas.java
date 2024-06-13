@@ -18,5 +18,4 @@ public class Maistas extends Produktas{
         return super.toString() + ", galiojimo data: " + galiojimoData;
     }
 
-
 }

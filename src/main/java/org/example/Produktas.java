@@ -19,4 +19,5 @@ public class Produktas {
     public String toString(){
         return "ID: " + id + ", pavadinimas: " + pavadinimas + ", kaina: " + kaina;
     }
+
 }

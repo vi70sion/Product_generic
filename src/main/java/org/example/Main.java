@@ -68,6 +68,5 @@ public class Main {
         System.out.println(katalogas.gautiProduktusArtiGaliojimoPabaigos(300));
         System.out.println("-".repeat(50));
 
-
     }
 }

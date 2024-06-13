@@ -59,4 +59,5 @@ public class ProduktuKatalogas <T extends Produktas>{
         return tempList;
     }
 
+
 }
